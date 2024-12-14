@@ -2,7 +2,8 @@
 
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Snort & Wireshark network traffic analysis](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)</b>
+- <b>Network Analysis</b>
+  - [Snort & Wireshark network traffic analysis](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
 
 <h2>📄 Certifications</h2>
 
