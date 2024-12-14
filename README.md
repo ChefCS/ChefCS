@@ -7,6 +7,9 @@
 
 <h2>📄 Certifications</h2>
 
+- Comptia Security+ 
+
+
 
 <h2>  Connect with me:</h2>
 
