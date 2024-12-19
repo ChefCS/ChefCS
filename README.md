@@ -1,4 +1,4 @@
-<h1>👋🏻 Hi, I'm Cesar! <br/><a href="https://github.com/ChefCS">Future Security Analyst</a>& <a href="linkedin.com/in/cesar-sandoval-683b39293">Cybersecurity Professional</a></h1>
+<h1>👋🏻 Hi, I'm Cesar! <br/><a href="https://github.com/ChefCS">Future Security Analyst</a> & <a href="linkedin.com/in/cesar-sandoval-683b39293">Cybersecurity Professional</a></h1>
 
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
