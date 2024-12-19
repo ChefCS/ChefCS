@@ -2,6 +2,9 @@
 
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
+- <b>Digital Forensics</b>
+  - 
+
 - <b>Network Analysis</b>
   - [Snort & Wireshark network traffic analysis](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
 
