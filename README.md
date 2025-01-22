@@ -3,9 +3,10 @@
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
 
-- <b>Digital Forensics</b>
+- <b>Active Directory</b>
   - [Simulated Digital Forensics Investigation](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
- - <b>Digital Forensics</b>
+
+- <b>Digital Forensics</b>
   - [Simulated Digital Forensics Investigation](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
     
 - <b>Network Analysis</b>
