@@ -6,7 +6,7 @@
 - <b>Active Directory</b>
   - [Simulated Digital Forensics Investigation](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
 
-- <b>Digital Forensics</b>
+- <b>Hardware Tools</b>
   - [Simulated Digital Forensics Investigation](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
     
 - <b>Network Analysis</b>
