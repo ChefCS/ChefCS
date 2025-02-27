@@ -15,7 +15,7 @@
 <h2>📄 Certifications</h2>
 
 - Comptia Security+
-- Blue Team LVL 1
+- Comptia Network+
 
 
 
