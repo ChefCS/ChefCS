@@ -3,14 +3,17 @@
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
 
-- <b>Active Directory</b>
-  - [Simulated Digital Forensics Investigation](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
+- <b>☁️ Cloud-Security</b>
+  - [Cloud-Based Home Security Lab](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
 
-- <b>Hardware Tools</b>
-  - [Simulated Digital Forensics Investigation](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
+
+- <b>🛜 Network Analysis</b>
+  - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
+
+
+- <b>📡 Hardware Tools & Programming</b>
+  - [Aircraft Tracking with HackRF One and Python](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
     
-- <b>Network Analysis</b>
-  - [Snort & Wireshark network traffic analysis](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
 
 <h2>📄 Certifications</h2>
 
@@ -24,6 +27,7 @@
 
 
 <h2>👈🏻👈🏻</h2>
+
 
 [twitter]: https://x.com/Chef__CS
 [linkedin]:https://www.linkedin.com/in/cesar-sandoval-683b39293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPyBMZUHZR%2F22YIrIuFppXg%3D%3D
