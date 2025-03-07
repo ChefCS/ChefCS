@@ -1,10 +1,10 @@
 <h1>👋🏻 Hi, I'm Cesar! <br/><a href="linkedin.com/in/cesar-sandoval-683b39293">Aspiring Cybersecurity Professional</a></h1>
 
-<h2>👨🏻‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏻‍💻My IT Projects:</h2>
 
 
 - <b>☁️ Cloud-Security</b>
-  - [Cloud-Based Home Security Lab](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
+  - [Self-Hosted Cloud Infrastructure Lab with Cybersecurity focus](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
 
 
 - <b>🛜 Network Analysis</b>
