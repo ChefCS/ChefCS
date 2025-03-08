@@ -4,7 +4,7 @@
 
 
 - <b>☁️ Cloud-Security</b>
-  - [Self-Hosted Cloud Infrastructure Lab with Cybersecurity focus](https://github.com/ChefCS/Simulated-Digital-Forensics-Investigation)
+  - [Self-Hosted Cloud Infrastructure Lab with Cybersecurity focus](https://github.com/ChefCS/Cloud-Security-Home-Lab)
 
 
 - <b>🛜 Network Analysis</b>
