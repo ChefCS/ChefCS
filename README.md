@@ -9,6 +9,7 @@
 
 - <b>🛜 Network Analysis</b>
   - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
+  - [Automated Vulnerability Scanning and Remediation Lab](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
 
 
 - <b>📡 Hardware Tools & Programming</b>
