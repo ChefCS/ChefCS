@@ -7,7 +7,7 @@
   - [Self-Hosted Cloud Infrastructure Lab with Cybersecurity focus](https://github.com/ChefCS/Cloud-Security-Home-Lab)
 
 
-- <b>🛜 Network Analysis</b>
+- <b>🛜 Networks</b>
   - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
   - [Automated Vulnerability Scanning and Remediation Lab](https://github.com/ChefCS/Automated-Vulnerability-Scanning-and-Remediation-Lab)
 
