@@ -18,8 +18,8 @@
 
 <h2>📄 Certifications</h2>
 
-- Comptia Security+
-- Comptia Network+
+- CompTia Security+
+- CompTia Network+
 - Google Cybersecurity Certificate
 
 
