@@ -14,7 +14,7 @@
 
 - <b>📡 Hardware Tools & Programming</b>
   - [Aircraft Tracking with HackRF One and Python](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python)
-    
+  - [Replay Attack Simulation with HackRF One](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python)
 
 <h2>📄 Certifications</h2>
 
