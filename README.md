@@ -4,17 +4,17 @@
 
 
 - <b>⚔️Attacking</b>
-  - [Active Directory Lab: Design,Attack, and Hardening(macOS + UTM)](https://github.com/ChefCS/Cloud-Security-Home-Lab)
+  <!-- - [Active Directory Lab: Design,Attack, and Hardening(macOS + UTM)](https://github.com/ChefCS/Cloud-Security-Home-Lab) -->
 
 
 - <b>🛜 Networks</b>
-  - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
-  - [Automated Vulnerability Scanning and Remediation Lab](https://github.com/ChefCS/Automated-Vulnerability-Scanning-and-Remediation-Lab)
+  <!-- - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark) -->
+  <!-- - [Automated Vulnerability Scanning and Remediation Lab](https://github.com/ChefCS/Automated-Vulnerability-Scanning-and-Remediation-Lab) -->
 
 
 - <b>📡 Hardware Tools & Programming</b>
-  - [Aircraft Tracking with HackRF One and Python](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python)
-  - [Replay Attack Simulation with HackRF One](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python)
+   <!-- - [Aircraft Tracking with HackRF One and Python](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python) -->
+  <!-- - [Replay Attack Simulation with HackRF One](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python) -->
 
 <h2>📄 Certifications</h2>
 
