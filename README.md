@@ -1,20 +1,18 @@
-<h1>👋🏻 Hi, I'm Cesar! <br/><a href="linkedin.com/in/cesar-sandoval-683b39293">Cybersecurity Professional</a></h1>
+<h1>👋🏻 Hi, I'm Cesar! <br/><a href="linkedin.com/in/cesar-sandoval-683b39293">CyberSecurity Professional</a></h1>
 
 <h2>⚡️Projects</h2>
 
 - <b>⚔️Attacking</b>
-  <!-- - [Active Directory Lab: Design,Attack, and Hardening(macOS + UTM)](https://github.com/ChefCS/Cloud-Security-Home-Lab) -->
+  - [SQL Injection lab mysql](https://github.com/ChefCS/sql-injection-lab-mysql)
+
 
 
 - <b>🛜 Networks</b>
    - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
-   - [Secure Virtual Network Lab with Docker] (https://github.com/ChefCS/secure-network-lab)
+   - [Secure Virtual Network Lab with Docker](https://github.com/ChefCS/secure-network-lab)
   <!-- - [Automated Vulnerability Scanning and Remediation Lab](https://github.com/ChefCS/Automated-Vulnerability-Scanning-and-Remediation-Lab) -->
 
 
-- <b>📡 Hardware Tools & Programming</b>
-   <!-- - [Aircraft Tracking with HackRF One and Python](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python) -->
-  <!-- - [Replay Attack Simulation with HackRF One](https://github.com/ChefCS/Aircraft-Tracking-with-Hackrf-one-and-python) -->
 
 <h2>📄 Certifications</h2>
 
