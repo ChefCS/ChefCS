@@ -2,14 +2,13 @@
 
 <h2>⚡️Projects</h2>
 
-- <b>☁️Cloud</b>
-  - [Password Management System in AWS](https://github.com/ChefCS/Password-Management-System-in-AWS)
 - <b>⚔️Attacking</b>
   <!-- - [Active Directory Lab: Design,Attack, and Hardening(macOS + UTM)](https://github.com/ChefCS/Cloud-Security-Home-Lab) -->
 
 
 - <b>🛜 Networks</b>
    - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
+   - [Secure Virtual Network Lab with Docker] (https://github.com/ChefCS/secure-network-lab)
   <!-- - [Automated Vulnerability Scanning and Remediation Lab](https://github.com/ChefCS/Automated-Vulnerability-Scanning-and-Remediation-Lab) -->
 
 
