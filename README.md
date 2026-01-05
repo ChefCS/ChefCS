@@ -1,4 +1,4 @@
-<h1>👋🏻 Hi, I'm Cesar! <br/><a href="linkedin.com/in/cesar-sandoval-683b39293">CyberSecurity Professional</a></h1>
+<h1>👋🏻 Hi, I'm Cesar! <br/><a href="linkedin.com/in/cesar-sandoval-683b39293">Cybersecurity Professional</a></h1>
 
 <h2>⚡️Projects</h2>
 
@@ -19,7 +19,7 @@
 - CompTia Security+
 - CompTia Network+
 - Google Cybersecurity Certificate
-
+OSCP in progress🤠
 
 
 <h2>  Connect with me:</h2>
