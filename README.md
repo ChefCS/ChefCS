@@ -1,13 +1,11 @@
 <h1>👋🏻 Hi, I'm Cesar! <br/>Cybersecurity Professional</a></h1>
 
 <h2>⚡️Pen Testing Projects</h2>
-- Number 1
-<br>
-- Number 2
 
-
-
-
++ New
++ New
++ New
++ 
 <h2>📄 Certifications</h2>
 
 - CompTia Security+
