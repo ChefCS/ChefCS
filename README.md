@@ -3,14 +3,10 @@
 <h2>⚡️Projects</h2>
 
 - <b>⚔️Attacking</b>
-  - [SQL Injection lab mysql](https://github.com/ChefCS/sql-injection-lab-mysql)
-
+  - 
 
 
 - <b>🛜 Networks</b>
-   - [Network Analysis with Wireshark & Snort](https://github.com/ChefCS/Network-Traffic-Monitoring-with-Snort-and-Wireshark)
-   - [Secure Virtual Network Lab with Docker](https://github.com/ChefCS/secure-network-lab)
-  <!-- - [Automated Vulnerability Scanning and Remediation Lab](https://github.com/ChefCS/Automated-Vulnerability-Scanning-and-Remediation-Lab) -->
 
 
 
