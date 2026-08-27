@@ -18,8 +18,7 @@
 
 - CompTia Security+
 - CompTia Network+
-- Google Cybersecurity Certificate
-OSCP in progress🤠
+- OSCP in progress🤠
 
 
 <h2>  Connect with me:</h2>
