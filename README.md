@@ -2,10 +2,15 @@
 
 <h2>⚡️Pen Testing Projects</h2>
 
-+ New
-+ New
-+ New
-+ 
++ Recon & OSINT
++ Network/Scanning
++ Exploitation
++ Post Exploitation/Persistence
++ Wireless/Physical
+
+<h2>Active Directory</h2>
+
+
 <h2>📄 Certifications</h2>
 
 - CompTia Security+
