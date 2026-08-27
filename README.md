@@ -1,8 +1,8 @@
-<h1>👋🏻 Hi, I'm Cesar! <br/><a href="linkedin.com/in/cesar-sandoval-683b39293">Cybersecurity Professional</a></h1>
+<h1>👋🏻 Hi, I'm Cesar! <br/>Cybersecurity Professional</a></h1>
 
 <h2>⚡️Projects</h2>
 
-- <b>⚔️Attacking</b>
+- <b>⚔️Pen Testing</b>
   - 
 
 
